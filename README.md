@@ -1,2 +1,2 @@
 # pnpm-react-monorepo
-PNPM monorepo with shared react components
+PNPM React monorepo with Typescript, and Craco configuration for shared react components.
