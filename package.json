@@ -6,20 +6,6 @@
   "workspaces": {
     "packages": [
       "packages/*"
-    ],
-    "nohoist": [
-      "**/react-native",
-      "**/react-native/**",
-      "**/react-native-scripts",
-      "**/react-native-scripts/**",
-      "***/expo-status-bar/**",
-      "***/expo-status-bar",
-      "**/expo",
-      "**/expo/**",
-      "**/react/**",
-      "**/react-dom/**",
-      "**/jest-expo",
-      "**/jest-expo/**"
     ]
   },
   "scripts": {
